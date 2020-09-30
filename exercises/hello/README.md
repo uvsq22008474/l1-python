@@ -9,3 +9,4 @@
 1. Exécutez le programme
     1. dans l'IDE
     1. dans le terminal
+print("hello world"):
